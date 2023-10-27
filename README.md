@@ -1,6 +1,14 @@
 # StickyChartView
 
+![IMG_0084](https://github.com/HannahZheng/StickyChartView/assets/19170853/db4f5744-5f30-469e-93db-788a5b805f14)
+
+
 运行代码切换到dev分支
+
+左侧2列固定 右侧可滑动
+
+支持左侧固定列数自定义
+支持上滑加载更多与下拉刷新
 
 使用方式见 Mine.Controller.GuildIncome
 
