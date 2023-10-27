@@ -11,6 +11,8 @@ private lazy var adapter = StickyListAdapter(forView: self.view)
  adapter.delegate = self
  
 
+
+
 extension Mine.Controller.GuildIncome: StickyListAdapterDelegate {
 
     /// 标题数组
