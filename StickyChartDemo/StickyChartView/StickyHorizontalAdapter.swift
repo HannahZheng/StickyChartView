@@ -33,7 +33,7 @@ final class StickyHorizontalAdapter: NSObject {
         mainView.dataSource = self
         mainView.delegate = self
         
-        
+        //
     }
 }
 
