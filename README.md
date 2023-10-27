@@ -5,15 +5,19 @@
 使用方式见 Mine.Controller.GuildIncome
 
 private lazy var adapter = StickyListAdapter(forView: self.view)
- view + adapter.mainView
- adapter.delegate = self
 
+ view + adapter.mainView
+ 
+ adapter.delegate = self
+ 
 
 extension Mine.Controller.GuildIncome: StickyListAdapterDelegate {
+
     /// 标题数组
     func titles() -> [String] {
         return viewModel.titles
     }
+    
     /// cell 数组 二维数组
     func datas() -> [[String]] {
         return viewModel.datas
