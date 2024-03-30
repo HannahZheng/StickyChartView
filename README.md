@@ -1,4 +1,4 @@
-# StickyChartView
+# StickyChartView 自定义表格 支持左侧固定列数自定义 支持上滑加载更多与下拉刷新
 
 ![IMG_0084](https://github.com/HannahZheng/StickyChartView/assets/19170853/db4f5744-5f30-469e-93db-788a5b805f14)
 
